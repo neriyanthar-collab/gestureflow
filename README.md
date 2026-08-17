@@ -32,7 +32,7 @@ Press `q` in the camera preview window to quit.
 - **macOS**: grant Camera access and Accessibility access (System Settings →
   Privacy & Security) to whichever app runs the script (Terminal, iTerm,
   VS Code, etc.). Without Accessibility access, `pyautogui` cannot move the
-  system cursor — the script will run with no visible effect.
+  system cursor, the script will run with no visible effect.
 - **Windows**: no special permission needed beyond the standard camera
   access prompt.
 - **Linux**: depends on your window manager/display server. `pyautogui`'s
