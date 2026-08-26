@@ -5,9 +5,7 @@ cursor; pinch your thumb and index finger together to click and drag.
 
 ## Requirements
 
-- Python 3.9–3.11 (MediaPipe's prebuilt wheels lag behind the newest Python
-  releases, 3.12/3.13 may not have a compatible wheel yet; check before
-  installing if you're on a newer version)
+- Python 3.9–3.11
 - A webcam
 - Windows, macOS, or Linux
 
