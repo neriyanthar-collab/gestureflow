@@ -58,4 +58,4 @@ All tunable values are constants at the top of `hand_mouse.py`:
 
 ## License
 
-MIT — do whatever you want with it.
+MIT: do whatever you want with it.
